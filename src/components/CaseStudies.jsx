@@ -10,7 +10,7 @@ export default function CaseStudies() {
       <div className="container">
         <h2 className="section-title">Real&#8209;Life Impact</h2>
         <p className="section-subtitle">
-          See how SunJoy Global II works for people in different stages of life.
+          See how CloudJoy Global II works for people in different stages of life.
         </p>
 
         {/* Tab selector */}

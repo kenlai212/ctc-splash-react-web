@@ -6,7 +6,7 @@ export default function KeyBenefits() {
       <div className="container">
         <h2 className="section-title">Key Benefits</h2>
         <p className="section-subtitle">
-          Six pillars that make SunJoy Global II a comprehensive wealth and protection
+          Six pillars that make CloudJoy Global II a comprehensive wealth and protection
           solution.
         </p>
 

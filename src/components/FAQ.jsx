@@ -9,7 +9,7 @@ export default function FAQ() {
       <div className="container">
         <h2 className="section-title">Your Questions Answered</h2>
         <p className="section-subtitle">
-          Common questions about SunJoy Global II, explained simply.
+          Common questions about CloudJoy Global II, explained simply.
         </p>
 
         <div style={styles.list}>

@@ -15,7 +15,7 @@ export default function Hero() {
 
         <div style={styles.heroContent}>
           <div style={styles.heroText}>
-            <h1 style={styles.title}>SunJoy Global Insurance Plan II</h1>
+            <h1 style={styles.title}>CloudJoy Global Insurance Plan II</h1>
             <p style={styles.subtitle}>Short&#8209;pay Savings Insurance Plan</p>
             <p style={styles.catchphrase}>
               Empowering flexible withdrawals and lasting legacy planning

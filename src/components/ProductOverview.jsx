@@ -2,7 +2,7 @@ export default function ProductOverview() {
   return (
     <div className="section">
       <div className="container">
-        <h2 className="section-title">About SunJoy Global II</h2>
+        <h2 className="section-title">About CloudJoy Global II</h2>
         <p className="section-subtitle">
           A long&#8209;term wealth accumulation plan that combines steady growth with the
           flexibility to withdraw funds for retirement, education, or legacy transfers
@@ -15,7 +15,7 @@ export default function ProductOverview() {
           </div>
 
           <div style={styles.textBlock}>
-            <h3 style={styles.h3}>Why SunJoy Global II?</h3>
+            <h3 style={styles.h3}>Why CloudJoy Global II?</h3>
             <ul style={styles.list}>
               <li>
                 <strong>Flexible premiums</strong> — choose a short pay period and let

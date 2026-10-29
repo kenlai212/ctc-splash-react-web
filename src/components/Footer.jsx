@@ -3,7 +3,7 @@ export default function Footer() {
     <footer style={styles.footer}>
       <div className="container" style={styles.inner}>
         <p style={styles.text}>
-          &copy; {new Date().getFullYear()} SunLife &mdash; SunJoy Global Insurance Plan II.
+          &copy; {new Date().getFullYear()} Cloudlife &mdash; CloudJoy Global Insurance Plan II.
           All rights reserved.
         </p>
         <p style={styles.disclaimer}>
